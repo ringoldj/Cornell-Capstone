@@ -1,0 +1,3 @@
+For my capstone, I have been working on making an app for apple devices that will allow users to make notes and organize them through self-created tags. As I have been working on this, I have been learning about how to create a larger scale project  by myself, how to integrate the front end and backend parts of an app, and how to use a variety of resources that are new to me (including swift, swiftUI, Xcode, and CoreData). While I have not fully learned any of these yet, I have made some progress already.
+
+While I was learning how to use my resources, I have found some interesting features and details about them. 

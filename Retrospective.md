@@ -1,11 +1,11 @@
 ## Questions
 
-How much time should be spent on planning versus working on the project?
-How much should planned ahead, and how much should be decided while writing code?
-When is it time to stop working and go back to planning?
-How did you track your progress?
-How should utility of a tool be weighed against the time it takes to learn?
-How do you determine how long you think it will take you to learn a tool?
+How much time should be spent on planning versus working on the project?<br />
+How much should planned ahead, and how much should be decided while writing code?<br />
+When is it time to stop working and go back to planning?<br />
+How did you track your progress?<br />
+How should utility of a tool be weighed against the time it takes to learn?<br />
+How do you determine how long you think it will take you to learn a tool?<br />
 When is it time to seek help versus trying to just figure things out yourself?
 
 ## Version Control
